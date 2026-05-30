@@ -80,50 +80,6 @@ Prompt Engineering            →   Vertex AI (Gemini), LLM orchestration
 
 ---
 
-## 🔥 Featured Projects
-
-### 🎯 [AI Career Prediction & Guidance System](https://github.com/Padmajakachare1911)
-> *Python · TensorFlow · Streamlit · Scikit-learn*
-
-An AI-driven platform that predicts suitable career paths based on academic performance, skills, and interests. Includes skill gap analysis, job market trend integration, and an interactive Streamlit dashboard with a continuous feedback loop for model improvement.
-
----
-
-### 🏛️ [Agentic AI Government Service Platform](https://github.com/Padmajakachare1911)
-> *FastAPI · SQLAlchemy · MySQL · JWT · DigiLocker API*
-
-An end-to-end AI automation system for processing government service requests (permits, licenses, citizen applications). Features document verification via DigiLocker APIs, JWT-based secure access, and an AI agent workflow for automated validation and processing.
-
----
-
-### 🌆 [Urban Risk & Slum Eviction Prediction System](https://github.com/Padmajakachare1911)
-> *Scikit-learn · Pandas · Folium · Data Visualization*
-
-ML model to identify high-risk urban zones prone to displacement. Analyzes socioeconomic, demographic, and infrastructure datasets with interactive spatial dashboards to support urban planning decisions.
-
----
-
-### 🧩 [ASD Detection Web App](https://github.com/Padmajakachare1911/Detection-of-Autistic-Spectrum-Disorder-Classification)
-> *Flask · KNN · MySQL · Python*
-
-A Flask-based web application for Autistic Spectrum Disorder detection using a KNN classifier, complete with MySQL integration, secure login, and visual analytics dashboards.
-
----
-
-### 🗺️ [Lost Recipes Finder](https://github.com/Padmajakachare1911)
-> *Streamlit · Python · NLP*
-
-A Streamlit app that discovers region-based Indian recipes through voice/text search with an interactive map UI — bridging cultural heritage and modern NLP.
-
----
-
-### 🔊 [Real-Time Voice Translator](https://github.com/Padmajakachare1911)
-> *Python · SpeechRecognition · TTS*
-
-Real-time English ↔ Spanish voice translation using speech recognition and text-to-speech modules — enabling seamless multilingual conversations.
-
----
-
 ## 💼 Internship Journey
 
 | Period | Role | Company |
