@@ -109,9 +109,9 @@ Prompt Engineering            →   Vertex AI (Gemini), LLM orchestration
 
 <div align="center">
 
-![Padmaja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Padmajakachare1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Padmaja's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Padmajakachare1911&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmajakachare1911&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Padmajakachare1911&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Padmajakachare1911&theme=tokyonight&hide_border=true)
 
