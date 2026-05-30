@@ -80,31 +80,6 @@ Prompt Engineering            →   Vertex AI (Gemini), LLM orchestration
 
 ---
 
-## 💼 Internship Journey
-
-| Period | Role | Company |
-|--------|------|---------|
-| Oct – Dec 2025 | AI Intern | **Infosys Springboard** |
-| 2025 | AI & Data Science Intern | **IM1B (Innovation Mission 1 Billion)** |
-| Apr – Jun 2025 | Data Science Intern | **NullClass** |
-| Sep 2024 | Data Science Intern | **Prodigy Infotech** |
-| Jun – Jul 2024 | AI/ML Intern | **SmartInternz** |
-
----
-
-## 📜 Certifications
-
-- 🏆 **McKinsey Forward Program** — McKinsey.org (2025)
-- ☁️ **Prompt Design in Vertex AI** — Google Cloud
-- 🤖 **Develop GenAI Apps with Gemini & Streamlit** — Google Cloud
-- 🛡️ **Cybersecurity Course** — Tech Mahindra Foundation / Skill India Digital Hub
-- ✈️ **British Airways Data Science Simulation** — Forage
-- 💼 **TCS ION Career Edge – Young Professional** — TCS ION
-- 🐙 **Get Started with GitHub Copilot** — Microsoft Learn
-- ⚡ **Work Ready Certification** — Beep
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,15 +91,6 @@ Prompt Engineering            →   Vertex AI (Gemini), LLM orchestration
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Padmajakachare1911&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🏆 Achievements
-
-- 🎓 Diploma in AI/ML Engineering — **90%** (Government Polytechnic, Mumbai)
-- 🥇 SSC — **91%** | HSC — **82.5%**
-- 🚀 **BIZENCE Startup Innovation Challenge** — Developed go-to-market strategies in a competitive business simulation
-- 📈 Maintained **90%+ academic performance** consistently throughout Diploma
 
 ---
 
