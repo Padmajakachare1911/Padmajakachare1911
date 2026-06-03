@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Padmaja%20Kachare&fontSize=60&fontAlignY=35&desc=v2.6&descAlignY=60&descSize=25&fontColor=ffffff" alt="Banner">
+  <img src="network-header.svg" width="100%" alt="Padmaja Kachare - Training in Progress">
 
   <p>
     <a href="https://github.com/Padmajakachare1911" target="_blank"><img src="https://img.shields.io/github/followers/Padmajakachare1911?style=flat-square&logo=github&color=333333" alt="GitHub Followers" /></a>
