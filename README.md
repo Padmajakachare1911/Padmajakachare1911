@@ -5,7 +5,8 @@
     <a href="https://github.com/Padmajakachare1911" target="_blank"><img src="https://img.shields.io/github/followers/Padmajakachare1911?style=flat-square&logo=github&color=333333" alt="GitHub Followers" /></a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:YOUR_EMAIL_HERE@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://YOUR_PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://padmajakachare1911.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/Padmajakachare1911/Padmajakachare1911.github.io/blob/main/assets/resume/Padmaja_Kachare_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4CAF50?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
   </p>
 </div>
 
@@ -30,9 +31,9 @@
 <br>
 
 <div align="center">
-  <!-- Note: Vercel instances for GitHub Stats sometimes face rate limits. If images are broken, try again later. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Padmajakachare1911&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&icon_color=3b82f6" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmajakachare1911&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3" height="150" alt="Top Languages" />
+  <!-- Using backup stats instance to avoid rate limits -->
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Padmajakachare1911&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&icon_color=3b82f6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Padmajakachare1911&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3" height="150" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Padmajakachare1911&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=a3a3a3" alt="GitHub Streak" />
