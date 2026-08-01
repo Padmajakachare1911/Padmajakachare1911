@@ -122,14 +122,14 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 <div align="center">
 
-| Project | What it does | Stack |
+| Project | What it does | |
 |:---|:---|:---|
-| 🛸 **[SkyGuard AI](https://github.com/Padmajakachare1911/skyguard-ai)** | Autonomous drone platform using computer vision for construction site safety auditing — detects PPE violations and unsafe zones on active job sites | Computer Vision, Python, Drone/UAV |
-| 📄 **[PDF-Assistant-RAG](https://github.com/Padmajakachare1911/PDF-Assistant-RAG)** | RAG-based assistant for querying PDFs — contributed keyword extraction, mobile sidebar, duplicate-upload handling, and file validation | FastAPI, Next.js, RAG |
-| 🛡️ **[SafetyAi](https://github.com/Padmajakachare1911/SafetyAi)** | OS-level real-time harmful content and harassment detection tool, built for a Microsoft × LinkedIn × edunet hackathon | [add stack] |
-| 🏙️ **[SAMANVAY](https://github.com/Padmajakachare1911/SAMANVAY-Agentic-AI-for-Smart-Urban-Infrastructure-Coordination)** | Agentic AI for smart urban infrastructure coordination | [add 1-line description + stack] |
-| 💳 **[UniPay-FraudX](https://github.com/Padmajakachare1911/UniPay-FraudX)** | [add 1-line description + stack] | [add stack] |
-| 🧩 **[AutiSense](https://github.com/Padmajakachare1911/AutiSense)** | [add 1-line description + stack] | [add stack] |
+| 🛸 **[SkyGuard AI](https://github.com/Padmajakachare1911/skyguard-ai)** | Autonomous drone platform using computer vision for construction site safety auditing — detects PPE violations and unsafe zones on active job sites | V |
+| 📄 **[PDF-Assistant-RAG](https://github.com/Padmajakachare1911/PDF-Assistant-RAG)** | RAG-based assistant for querying PDFs — contributed keyword extraction, mobile sidebar, duplicate-upload handling, and file validation |  |
+| 🛡️ **[SafetyAi](https://github.com/Padmajakachare1911/SafetyAi)** | OS-level real-time harmful content and harassment detection tool, built for a Microsoft × LinkedIn × edunet hackathon |  |
+| 🏙️ **[SAMANVAY](https://github.com/Padmajakachare1911/SAMANVAY-Agentic-AI-for-Smart-Urban-Infrastructure-Coordination)** | Agentic AI for smart urban infrastructure coordination |  |
+| 💳 **[UniPay-FraudX](https://github.com/Padmajakachare1911/UniPay-FraudX)** | [add 1-line description + stack] |  |
+| 🧩 **[AutiSense](https://github.com/Padmajakachare1911/AutiSense)** | [add 1-line description + stack] | |
 
 </div>
 
