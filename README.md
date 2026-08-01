@@ -5,11 +5,14 @@
 
 <br/>
 
-<!-- PURPLE BOLD NAME — static, no animation -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=PADMAJA%20KACHARE&fontSize=56&fontColor=a78bfa&fontAlignY=55&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=80&descSize=16&descColor=7c6ca8" width="100%" />
+<h1 color=7c6ca8> Padmaja Kachare </h1>
+
+### Training in progress...
+
+<br/>
 
 <a href="https://github.com/Padmajakachare1911">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7c6ca8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%7C+CGPA+9.3+%7C+SIES+GST;Creator+of+SkyGuard+AI+%E2%80%94+Autonomous+Industrial+Safety+Drone;Top+75+%2F+418%2B+%E2%80%94+GenAI+Hackathon+Mumbai+2025+%7C+Top+6+Hermes+Buildathon;Dorado+AI+Fellow+%7C+4%C3%97+AI%2FML+Intern" alt="role typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7c6ca8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%7C+CGPA+9.3+%7C+SIES+GST;Creator+of+SkyGuard+AI+%E2%80%94+Autonomous+Industrial+Safety+Drone;Top+75+%2F+418%2B+%E2%80%94+GenAI+Hackathon+Mumbai+2025+%7C+Top+6+Hermes+Buildathon;DoraDAO+Fellow+%7C+4%C3%97+AI%2FML+Intern" alt="role typing" />
 </a>
 
 <br/><br/>
@@ -18,7 +21,7 @@
 [![GitHub](https://img.shields.io/github/followers/Padmajakachare1911?style=for-the-badge&logo=github&color=a78bfa&labelColor=1e1b2e&label=GitHub)](https://github.com/Padmajakachare1911)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2d2547?style=for-the-badge&logo=vercel&logoColor=c4b0f0)](https://padmajakachare1911.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-6d5eac?style=for-the-badge&logo=adobeacrobatreader&logoColor=e2d9f3)](https://github.com/Padmajakachare1911/Padmajakachare1911.github.io/blob/main/assets/resume/Padmaja_Kachare_Resume.pdf)
-[![Email](https://img.shields.io/badge/Email-1e1b2e?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:padmajakachare@example.com)
+[![Email](https://img.shields.io/badge/Email-1e1b2e?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:padmajakachare1911@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0d1f,50:2d2547,100:0f0d1f&height=2" width="100%" />
 
@@ -28,7 +31,7 @@
 
 ## `> whoami`
 
-> *B.Tech AI & Data Science · SIES GST · Dorado AI Fellow*
+> *B.Tech AI & Data Science · SIES GST · DoraDAO Fellow*
 
 I engineer AI systems that work in the real world — not just in notebooks. My flagship project, **SkyGuard AI**, is an autonomous drone that detects PPE violations on live factory floors using computer vision. I've competed across national-level hackathons, shipped production-ready AI across 4 industry internships, and I build things the field actually needs.
 
@@ -81,9 +84,9 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Padmajakachare1911&show_icons=true&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0&ring_color=a78bfa&count_private=true&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Padmajakachare1911&show_icons=true&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0&ring_color=a78bfa&count_private=true&include_all_commits=true&cache_seconds=86400" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmajakachare1911&layout=compact&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&text_color=c4b0f0&langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmajakachare1911&layout=compact&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&text_color=c4b0f0&langs_count=8&cache_seconds=86400" />
 
 <br/>
 
@@ -92,6 +95,10 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Padmajakachare1911&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+<br/>
+
+<sub>⚠️ These cards run on a shared public service that occasionally rate-limits and shows blank/broken. If a card breaks often, the reliable fix is self-hosting your own instance — ask me if you want that set up.</sub>
 
 </div>
 
@@ -116,26 +123,14 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 <div align="center">
 
-<a href="https://github.com/Padmajakachare1911/skyguard-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Padmajakachare1911&repo=skyguard-ai&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0" />
-</a>
-<a href="https://github.com/Padmajakachare1911/SAMANVAY-Agentic-AI-for-Smart-Urban-Infrastructure-Coordination">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Padmajakachare1911&repo=SAMANVAY-Agentic-AI-for-Smart-Urban-Infrastructure-Coordination&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0" />
-</a>
-
-<a href="https://github.com/Padmajakachare1911/SafetyAi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Padmajakachare1911&repo=SafetyAi&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0" />
-</a>
-<a href="https://github.com/Padmajakachare1911/UniPay-FraudX">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Padmajakachare1911&repo=UniPay-FraudX&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0" />
-</a>
-
-<a href="https://github.com/Padmajakachare1911/AutiSense">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Padmajakachare1911&repo=AutiSense&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0" />
-</a>
-<a href="https://github.com/Padmajakachare1911/PDF-Assistant-RAG">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Padmajakachare1911&repo=PDF-Assistant-RAG&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0" />
-</a>
+| Project | What it does | Stack |
+|:---|:---|:---|
+| 🛸 **[SkyGuard AI](https://github.com/Padmajakachare1911/skyguard-ai)** | Autonomous drone platform using computer vision for construction site safety auditing — detects PPE violations and unsafe zones on active job sites | Computer Vision, Python, Drone/UAV |
+| 📄 **[PDF-Assistant-RAG](https://github.com/Padmajakachare1911/PDF-Assistant-RAG)** | RAG-based assistant for querying PDFs — contributed keyword extraction, mobile sidebar, duplicate-upload handling, and file validation | FastAPI, Next.js, RAG |
+| 🛡️ **[SafetyAi](https://github.com/Padmajakachare1911/SafetyAi)** | OS-level real-time harmful content and harassment detection tool, built for a Microsoft × LinkedIn × edunet hackathon | [add stack] |
+| 🏙️ **[SAMANVAY](https://github.com/Padmajakachare1911/SAMANVAY-Agentic-AI-for-Smart-Urban-Infrastructure-Coordination)** | Agentic AI for smart urban infrastructure coordination | [add 1-line description + stack] |
+| 💳 **[UniPay-FraudX](https://github.com/Padmajakachare1911/UniPay-FraudX)** | [add 1-line description + stack] | [add stack] |
+| 🧩 **[AutiSense](https://github.com/Padmajakachare1911/AutiSense)** | [add 1-line description + stack] | [add stack] |
 
 </div>
 
@@ -155,20 +150,6 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 ---
 
-## `> contribution_trail`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Padmajakachare1911/Padmajakachare1911/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Padmajakachare1911/Padmajakachare1911/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Padmajakachare1911/Padmajakachare1911/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## `> open_channel`
 
 <div align="center">
@@ -179,7 +160,7 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6d5eac?style=for-the-badge&logo=linkedin&logoColor=e2d9f3)](https://linkedin.com/in/padmaja-kachare)
 &nbsp;
-[![Email](https://img.shields.io/badge/Drop_a_Mail-a78bfa?style=for-the-badge&logo=gmail&logoColor=1e1b2e)](mailto:padmajakachare@example.com)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-a78bfa?style=for-the-badge&logo=gmail&logoColor=1e1b2e)](mailto:padmajakachare1911@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-2d2547?style=for-the-badge&logo=vercel&logoColor=c4b0f0)](https://padmajakachare1911.github.io/)
 
