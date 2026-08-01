@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=PADMAJA%20KACHARE&fontSize=56&fontColor=a78bfa&fontAlignY=55&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=80&descSize=16&descColor=7c6ca8" width="100%" />
 
 <a href="https://github.com/Padmajakachare1911">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7c6ca8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%7C+CGPA+9.3+%7C+SIES+GST;Creator+of+SkyGuard+AI+—+Autonomous+Industrial+Safety+Drone;Top+75+%2F+418%2B+—+GenAI+Hackathon+Mumbai+2025+%7C+Top+6+Hermes+Buildathon;Dorado+AI+Fellow+%7C+4%C3%97+AI%2FML+Intern" alt="role typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7c6ca8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%7C+CGPA+9.3+%7C+SIES+GST;Creator+of+SkyGuard+AI+%E2%80%94+Autonomous+Industrial+Safety+Drone;Top+75+%2F+418%2B+%E2%80%94+GenAI+Hackathon+Mumbai+2025+%7C+Top+6+Hermes+Buildathon;Dorado+AI+Fellow+%7C+4%C3%97+AI%2FML+Intern" alt="role typing" />
 </a>
 
 <br/><br/>
@@ -81,9 +81,9 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Padmajakachare1911&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0&ring_color=a78bfa&count_private=true&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Padmajakachare1911&show_icons=true&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&icon_color=6d5eac&text_color=c4b0f0&ring_color=a78bfa&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmajakachare1911&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&text_color=c4b0f0&langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmajakachare1911&layout=compact&hide_border=true&bg_color=1e1b2e&title_color=a78bfa&text_color=c4b0f0&langs_count=8" />
 
 <br/>
 
@@ -155,6 +155,20 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 ---
 
+## `> contribution_trail`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Padmajakachare1911/Padmajakachare1911/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Padmajakachare1911/Padmajakachare1911/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Padmajakachare1911/Padmajakachare1911/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## `> open_channel`
 
 <div align="center">
@@ -165,7 +179,7 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6d5eac?style=for-the-badge&logo=linkedin&logoColor=e2d9f3)](https://linkedin.com/in/padmaja-kachare)
 &nbsp;
-[![Email](https://img.shields.io/badge/Drop_a_Mail-a78bfa?style=for-the-badge&logo=gmail&logoColor=1e1b2e)](mailto:padmajakachare1911@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-a78bfa?style=for-the-badge&logo=gmail&logoColor=1e1b2e)](mailto:padmajakachare@example.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-2d2547?style=for-the-badge&logo=vercel&logoColor=c4b0f0)](https://padmajakachare1911.github.io/)
 
