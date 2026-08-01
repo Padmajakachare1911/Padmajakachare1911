@@ -98,7 +98,6 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 <br/>
 
-<sub>⚠️ These cards run on a shared public service that occasionally rate-limits and shows blank/broken. If a card breaks often, the reliable fix is self-hosting your own instance — ask me if you want that set up.</sub>
 
 </div>
 
