@@ -128,8 +128,8 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 | 📄 **[PDF-Assistant-RAG](https://github.com/Padmajakachare1911/PDF-Assistant-RAG)** | RAG-based assistant for querying PDFs — contributed keyword extraction, mobile sidebar, duplicate-upload handling, and file validation |  |
 | 🛡️ **[SafetyAi](https://github.com/Padmajakachare1911/SafetyAi)** | OS-level real-time harmful content and harassment detection tool, built for a Microsoft × LinkedIn × edunet hackathon |  |
 | 🏙️ **[SAMANVAY](https://github.com/Padmajakachare1911/SAMANVAY-Agentic-AI-for-Smart-Urban-Infrastructure-Coordination)** | Agentic AI for smart urban infrastructure coordination |  |
-| 💳 **[UniPay-FraudX](https://github.com/Padmajakachare1911/UniPay-FraudX)** | [add 1-line description + stack] |  |
-| 🧩 **[AutiSense](https://github.com/Padmajakachare1911/AutiSense)** | [add 1-line description + stack] | |
+| 💳 **[UniPay-FraudX](https://github.com/Padmajakachare1911/UniPay-FraudX)** |   |
+| 🧩 **[AutiSense](https://github.com/Padmajakachare1911/AutiSense)** |  |
 
 </div>
 
