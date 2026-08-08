@@ -118,19 +118,6 @@ Currently deep in **LangChain, MLOps, and autonomous systems**. Always building.
 
 ---
 
-## `> run_operations`
-
-<div align="center">
-
-| Project | What it does | |
-|:---|:---|:---|
-| 🛸 **[SkyGuard AI](https://github.com/Padmajakachare1911/skyguard-ai)** | Autonomous drone platform using computer vision for construction site safety auditing — detects PPE violations and unsafe zones on active job sites | V |
-| 📄 **[PDF-Assistant-RAG](https://github.com/Padmajakachare1911/PDF-Assistant-RAG)** | RAG-based assistant for querying PDFs — contributed keyword extraction, mobile sidebar, duplicate-upload handling, and file validation |  |
-| 🛡️ **[SafetyAi](https://github.com/Padmajakachare1911/SafetyAi)** | OS-level real-time harmful content and harassment detection tool, built for a Microsoft × LinkedIn × edunet hackathon |  |
-| 🏙️ **[SAMANVAY](https://github.com/Padmajakachare1911/SAMANVAY-Agentic-AI-for-Smart-Urban-Infrastructure-Coordination)** | Agentic AI for smart urban infrastructure coordination |  |
-| 💳 **[UniPay-FraudX](https://github.com/Padmajakachare1911/UniPay-FraudX)** |   |
-| 🧩 **[AutiSense](https://github.com/Padmajakachare1911/AutiSense)** |  |
-
 </div>
 
 ---
